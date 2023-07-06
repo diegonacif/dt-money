@@ -23,6 +23,22 @@
       "category": "Entretenimento",
       "price": 92,
       "createdAt": "2023-07-05T12:18:32.308Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "category": "Venda",
+      "price": 10000,
+      "type": "income",
+      "createdAt": "2023-07-06T20:01:47.898Z",
+      "id": 4
+    },
+    {
+      "description": "Pastel Gourmet",
+      "category": "Alimentação",
+      "price": 10,
+      "type": "outcome",
+      "createdAt": "2023-07-06T20:19:58.544Z",
+      "id": 5
     }
   ]
 }
