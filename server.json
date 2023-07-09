@@ -39,6 +39,14 @@
       "type": "outcome",
       "createdAt": "2023-07-06T20:19:58.544Z",
       "id": 5
+    },
+    {
+      "description": "Desenvolvimento de Landing Page",
+      "category": "Venda",
+      "price": 5000,
+      "type": "income",
+      "createdAt": "2023-07-09T22:27:04.687Z",
+      "id": 6
     }
   ]
 }
